@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Anlong Zhang / Site Title"
+title                    : "Anlong Zhang / Student"
 title_separator          : "-"
 name                     : &name "Anlong Zhang"
 description              : &description "personal description"
